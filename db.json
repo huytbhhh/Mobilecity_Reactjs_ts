@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 1,
+      "category": "phone",
+      "brand": "iphone",
+      "img": "https://tse3.mm.bing.net/th?id=OIP.RT9QNuTk7eEbP8m8YVIqnQHaHa&pid=Api&P=0&h=180",
+      "model": "iPhone 12",
+      "specs": {
+        "screenSize": "6.1 inches",
+        "camera": "Dual 12 MP",
+        "storage": "128 GB"
+      },
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "category": "phone",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.y6E1JhQNaReEwvEoJ5HqwgHaHa&pid=Api&P=0&h=180",
+      "brand": "samsung",
+      "model": "Galaxy S21",
+      "specs": {
+        "screenSize": "6.2 inches",
+        "camera": "Triple 12 MP",
+        "storage": "256 GB"
+      },
+      "price": 899.99
+    },
+    {
+      "id": 3,
+      "category": "tv",
+      "brand": "samsung",
+      "model": "Samsung QLED 4K TV",
+      "specs": {
+        "screenSize": "55 inches",
+        "resolution": "4K UHD",
+        "smartFeatures": true
+      },
+      "price": 1499.99
+    },
+    {
+      "id": 4,
+      "category": "tv",
+      "brand": "asus",
+      "model": "ASUS 32-inch Monitor",
+      "specs": {
+        "screenSize": "32 inches",
+        "resolution": "Full HD",
+        "refreshRate": "75 Hz"
+      },
+      "price": 349.99
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "cart": {
+    "name": "typicode"
+  }
+}
